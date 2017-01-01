@@ -1,3 +1,9 @@
+### This is only for practice purpose. Orginal git repo is at
+```
+https://github.com/zhaozhiming/wechat-todolist.git
+```
+
+============================================
 # 微信小程序之练手小玩意儿——Todo List
 
 ## 运行效果
